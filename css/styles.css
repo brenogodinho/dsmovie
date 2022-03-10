@@ -64,17 +64,17 @@ a, a:hover {
     padding: 40px 0;
 }
 
-.desmovie-card {
+.dsmovie-card {
     width: 100%;
     
 }
 
-.desmovie-card img {
+.dsmovie-card img {
     width: 100%;
     border-radius: 8px 8px 0 0;
 }
 
-.desmovie-card-description {
+.dsmovie-card-description {
     background-color: var(--white);
     padding: 10px 20px 20px 20px;
     display: flex;
@@ -85,7 +85,7 @@ a, a:hover {
     min-height: 150px;
 }
 
-.desmovie-card-description h3 {
+.dsmovie-card-description h3 {
     font-size: 13px;
     font-weight: 700;
     margin-bottom: 20px;    
@@ -110,7 +110,7 @@ a, a:hover {
     max-width: 480px;
 }
 
-.desmovie-form-description {
+.dsmovie-form-description {
     background-color: var(--white);
     padding: 20px;
     display: flex;
@@ -124,7 +124,7 @@ a, a:hover {
     width: 100%;
 }
 
-.desmovie-form-description {
+.dsmovie-form-description {
     font-size: 13px;
     font-weight: 700;
 }
